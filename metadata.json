@@ -1,0 +1,7 @@
+{
+  "name": "The Sanctuary - Boutique Movement Space",
+  "description": "An ultra-premium landing page for 'The Sanctuary', a boutique gym focused on architectural beauty, graceful movement, and sophisticated wellness.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
