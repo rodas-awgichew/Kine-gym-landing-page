@@ -1,6 +1,6 @@
 # The Kine
 
-A small, elevated studio for mindful movement, movement therapy, and small-group classes. Designed for yoga, Pilates, barre, dance, and somatic practice, The Sanctuary offers a curated environment for intentional practice and community.
+A small, elevated studio for mindful movement, movement therapy, and small-group classes. Designed for yoga, Pilates, barre, dance, and somatic practice, The Kine offers a curated environment for intentional practice and community.
 
 Tech stack
 - HTML5, CSS3, modern JavaScript (ES6+), Typescript
