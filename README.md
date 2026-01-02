@@ -11,7 +11,6 @@ Key features
 - Responsive, accessible landing page with hero, class descriptions, schedule, instructors, pricing, gallery, and contact sections
 - Booking widget integration and newsletter signup placeholders
 - Optimized assets (compressed images, responsive srcsets) and basic SEO meta tags
-- Content managed in docs/ (Markdown) and assets/ for easy updates
 - Clear operations and booking templates in bookings/ and operations/ for studio management
 - Simple to fork and customize for different studios or event programs
 
