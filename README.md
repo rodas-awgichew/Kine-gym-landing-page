@@ -26,7 +26,7 @@ Key features
 1. Clone this repository:
     git clone <https://github.com/rodas-awgichew/Kine-gym-landing-page.git>
 2. Populate the docs/ and assets/ folders with studio photos, class schedules, and pricing.
-3. Update booking integrations and contact details in operations/README or website config.
+
 
 
 ## Community & Conduct
